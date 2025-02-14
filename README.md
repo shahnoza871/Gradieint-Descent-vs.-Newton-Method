@@ -1,7 +1,3 @@
-Here’s a **GitHub-friendly README** for your project on optimization using **Gradient Descent** and **Newton’s Method**.  
-
----
-
 # 🚀 Optimization via Gradient Descent & Newton’s Method
 
 This project implements **Gradient Descent** and **Newton’s Method** with **backtracking line search** for unconstrained minimization. The program also handles **non-convex problems** by identifying and sorting the minimum points found by both methods, starting from different random initial points.
